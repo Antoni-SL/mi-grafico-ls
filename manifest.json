@@ -1,0 +1,21 @@
+{
+    "name": "Mi Visualización D3.js",
+    "description": "Una visualización personalizada creada con D3.js.",
+    "version": "1.0.0",
+    "apiVersion": "v1",
+    "resources": {
+        "component": {
+            "type": "visualization",
+            "url": "https://miusuario.github.io/mi-grafico-ls/index2.html",
+            "id": "unique-component-id"
+        }
+    },
+    "parameters": [
+        {
+            "name": "parametro1",
+            "type": "TEXT",
+            "label": "Parámetro 1",
+            "description": "Descripción del parámetro 1."
+        }
+    ]
+}
